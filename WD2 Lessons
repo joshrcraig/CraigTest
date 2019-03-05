@@ -1,0 +1,116 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0B87DbcuseMB9anZXRFZ2MlBncDg",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    },
+    {
+      "fileId": "0B87DbcuseMB9a2d5T2E1NUpzVWM",
+      "contentType": "text/html",
+      "name": "index2.html",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    },
+    {
+      "fileId": "0B87DbcuseMB9WS1VVTlxNnJKVEk",
+      "contentType": "text/html",
+      "name": "blog.html",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    },
+    {
+      "fileId": "0B87DbcuseMB9NHYxMHRHT1h6eGs",
+      "contentType": "text/html",
+      "name": "special.html",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    },
+    {
+      "fileId": "0B87DbcuseMB9cklGU0NkR2dtZGM",
+      "contentType": "text/html",
+      "name": "destination.html",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    },
+    {
+      "fileId": "0B87DbcuseMB9dFo0T3haLWZrcGs",
+      "contentType": "text/html",
+      "name": "start.html",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    },
+    {
+      "fileId": "0B87DbcuseMB9aUpvUGJ6RTRfMGc",
+      "contentType": "text/html",
+      "name": "contact.html",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "0B87DbcuseMB9Nk9TRGptOHJSSUE",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    },
+    {
+      "fileId": "0B87DbcuseMB9YUdZaVl1UmpYRnM",
+      "contentType": "text/css",
+      "name": "style1.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    },
+    {
+      "fileId": "0B87DbcuseMB9RkZ4ZnFadzdZQm8",
+      "contentType": "text/css",
+      "name": "style2.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    },
+    {
+      "fileId": "0B87DbcuseMB9YlJoOUkxVEExRDg",
+      "contentType": "text/css",
+      "name": "style3.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    },
+    {
+      "fileId": "0B87DbcuseMB9cHpEem9qaml2QkU",
+      "contentType": "text/css",
+      "name": "style4.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    },
+    {
+      "fileId": "0B87DbcuseMB9UGpOdVFFOUJOOU0",
+      "contentType": "text/css",
+      "name": "style5.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    },
+    {
+      "fileId": "0B87DbcuseMB9LWJBUXBmUzJ2MTA",
+      "contentType": "text/css",
+      "name": "style6.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    },
+    {
+      "fileId": "0B87DbcuseMB9bDF2cjFfUXRsVkE",
+      "contentType": "text/css",
+      "name": "style7.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    },
+    {
+      "fileId": "0B87DbcuseMB9dFRDS3NQOHhwbkU",
+      "contentType": "text/css",
+      "name": "startstyle.css",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0/"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "0B87DbcuseMB9U0F5MHFCYjhyb1E",
+      "contentType": "text/javascript",
+      "name": "code.js",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    },
+    {
+      "fileId": "0B87DbcuseMB9R2lLVXFmdkRObEE",
+      "contentType": "text/javascript",
+      "name": "code2.js",
+      "path": "0B87DbcuseMB9dXJWMlFpNGZZbE0"
+    }
+  ]
+}

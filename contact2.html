@@ -1,0 +1,74 @@
+<!--For Project 9-jQuery-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Travel the World</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style7.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="code2.js"></script>
+</head>
+ <body>
+  <div class="container">
+    <header>
+        <h1>Let's Travel the World!</h1>
+        <h3>It's the Journey AND the Destination</h3>
+    </header>
+     <nav id="flex-nav">
+       <a href="#" class="toggleNav">&#9776; Menu</a> <!--This will only be visible less than 480px wide-->
+        <ul>
+        <li><a href="index2.html">Home</a></li>
+        <li><a href="destination.html">Destination</a></li>
+        <li><a href="special.html">Special</a></li>
+        <li><a href="blog.html">Travel Blog</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+       </ul>
+    </nav>
+    
+    <main>
+
+        <h2>Contact Us</h2>
+        <p>Use this form to allow us to get in touch with you within 1 business day!
+            <br>* = Required Field</p>
+     <form  class="subgrid2" autocomplete="off">
+     <div class="div1">
+         Name*<br><input type="text" size="30" placeholder="Jane Doe" autofocus required name="fullname"><br>
+         Email*<br><input type="email" size="30" required name="email"><br>
+         Phone*<br> <input type="tel" size="30" placeholder="(xxx) xxx-xxxx" required name="phone"><br>
+         Personal Website<br><input type="url" size="30" name="website"><br>
+     </div>
+     
+     <div class="div2">
+         Next Destination<br><input type="text" size="30" list="destinations" name="destination"><br>
+          <datalist id="destinations">
+            <option value="Beijing">
+            <option value="Lisbon">
+            <option value="Paris">
+            <option value="Sydney">
+            <option value="Tokyo">
+            <option value="Washington DC">
+          </datalist>
+          Expected Date of Departure<br><input type="date" min="2013-07-01" name="departure"><br>
+          Number of Nights on Trip<br><input type="number" min="1" max="30" step="1" value="6" name="nights"><br>
+
+          <input type="submit" value="Help Me Book My Trip!" class="button shadow">
+     </div>
+     
+     </form>
+         <div class="call">
+            Or Call Us
+         <div class="phone">1-888-TRAVEL1</div>
+     </div>
+
+     </main>
+   
+     
+    <footer>
+        <p> &copy; Travel The World LLC</p>
+        <p>123 Main Street</p>
+        <p>Sometown, USA 12345</p>
+    </footer>
+    </div>
+</body>
+</html>
