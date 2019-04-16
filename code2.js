@@ -13,7 +13,7 @@ $('.button').click(
    function(){
       $(this).removeClass('shadow');
    }),
-   $('.button').hover(
+   $('.button').mouseleave(
        function(){
       $(this).addClass('shadow');
   
